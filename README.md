@@ -93,7 +93,7 @@ Simplified GPA calculation based on subjects and credits.
 
 ### 📫 Let's Connect
 - 📧 [khelendra.guptarauniyar@gmail.com](mailto:khelendra.guptarauniyar@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/khelendra) https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/
+- 🌐 [LinkedIn]([https://linkedin.com/in/khelendra](https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/)) https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/
 
 ---
 
