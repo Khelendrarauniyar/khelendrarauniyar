@@ -15,13 +15,14 @@
 
 #### 👨‍💻 Languages & Frameworks
 - Python
-- JavaScript
 - React
 - Flask
 - HTML / CSS
 - PHP (Basic)
+- Android Development (Basics)
 
 #### 🧠 Machine Learning & AI
+- Supervised / Unsupervised Learning
 - TensorFlow / TensorFlow Lite
 - Deep Learning (CNN for Image Classification)
 - Model Deployment with Flask & Mobile
@@ -36,7 +37,7 @@
 - VS Code
 - Git & GitHub
 - Postman
-- Figma
+- Google Colab
 
 ---
 
@@ -50,7 +51,7 @@ Smart financial management platform with auto-categorization of expenses and vis
 
 #### 🔹 **AI-Powered Learning Platform**
 Adaptive learning assistant that uses user patterns and NLP to deliver personalized educational content.  
-**Tech Stack:** Flask, Python, Firebase, ML
+**Tech Stack:** Flask, Python, Sqlite, ML, API Integration
 
 ---
 
@@ -62,7 +63,7 @@ Deep Learning-based web tool for classifying chest X-ray images to detect pneumo
 
 #### 🔹 **Fertilizer Impact Prediction & Crop Yield Analyzer**
 Analyzes soil and fertilizer data to predict crop productivity and optimize usage.  
-**Tech Stack:** Flask, Python, ML, SQL
+**Tech Stack:** Flask, Python, ML, SQL, API Integration
 
 ---
 
@@ -80,7 +81,7 @@ Generates dynamic travel plans using Gemini API and maps enriched with POIs and 
 
 #### 🔹 **Grammar Checker App (Android)**
 An Android app that uses AI to detect and suggest corrections for grammatical errors.  
-**Tech Stack:** Kotlin, TensorFlow Lite
+**Tech Stack:** Jetpack Compose, Kotlin, API Integration
 
 ---
 
