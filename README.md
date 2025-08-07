@@ -1,100 +1,68 @@
 <h1 align="center">Hi 👋, I'm Khelendra Rauniyar</h1>
-<h3 align="center">Python Full Stack Developer | AI & Web Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Web & AI Solutions</h3>
 
 ---
 
-### 💡 Interests & Focus Areas
-- Full Stack Web Development with **Python (Flask)** and **React**
-- Machine Learning integration for intelligent automation
-- Database-backed, scalable applications using **SQL** and **Firebase**
-- Clean, responsive, and user-friendly UI/UX
+### 💡 Core Competencies
+- **Frontend Development**: React, HTML5/CSS3, Responsive Design
+- **Backend Systems**: Python (Flask), REST APIs, Database Architecture
+- **Web Technologies**: JavaScript, jQuery (learning), Bootstrap
+- **Collaborative Development**: Agile workflows, team projects, code reviews
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 👨‍💻 Languages & Frameworks
-- Python
-- React
-- Flask
-- HTML / CSS
-- PHP (Basic)
-- Android Development (Basics)
+#### 🌐 Web Development
+- **Frontend**: React, HTML/CSS, JavaScript, Bootstrap
+- **Backend**: Python (Flask), Java (Basic), PHP (Basic)
+- **APIs**: RESTful Services, Google Maps/Gemini API Integration
+- **Databases**: MySQL, SQLite, Firebase
 
-#### 🧠 Machine Learning & AI
-- Supervised / Unsupervised Learning
-- TensorFlow / TensorFlow Lite
-- Deep Learning (CNN for Image Classification)
-- Model Deployment with Flask & Mobile
-
-#### 🗄️ Databases & APIs
-- SQL (MySQL / SQLite)
-- Firebase Firestore & Storage
-- RESTful APIs
-- API Integration (Google Places, Geoapify, Gemini)
-
-#### 🛠 Tools & Platforms
-- VS Code
-- Git & GitHub
-- Postman
-- Google Colab
+#### 🛠️ Tools & Practices
+- Git/GitHub | Postman | VS Code 
+- OOP Principles | MVC Architecture
+- UI/UX Best Practices
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Web Focus)
 
-#### 🔹 **AI-Powered Expense Tracker**
-Smart financial management platform with auto-categorization of expenses and visual insights using ML.  
-**Tech Stack:** React, Flask, Python, Firebase, SQL
+#### 🔹 **AI-Powered Expense Tracker** ([Live Demo]())
+React-Flask web app with Firebase backend. Features:  
+✔ Auto-category ML model  
+✔ Interactive dashboards  
+✔ JWT authentication  
+**Tech**: React | Flask | Python | Firebase | REST APIs
 
----
-
-#### 🔹 **AI-Powered Learning Platform**
-Adaptive learning assistant that uses user patterns and NLP to deliver personalized educational content.  
-**Tech Stack:** Flask, Python, Sqlite, ML, API Integration
-
----
-
-#### 🔹 **Pneumonia Detection System**
-Deep Learning-based web tool for classifying chest X-ray images to detect pneumonia.  
-**Tech Stack:** Flask, CNN, TensorFlow, Python
-
----
-
-#### 🔹 **Fertilizer Impact Prediction & Crop Yield Analyzer**
-Analyzes soil and fertilizer data to predict crop productivity and optimize usage.  
-**Tech Stack:** Flask, Python, ML, SQL, API Integration
-
----
+#### 🔹 **AI Travel Planner** 
+Dynamic itinerary generator using:  
+✔ React Native frontend  
+✔ Gemini API + Geoapify integration  
+✔ Firebase real-time updates  
+**Tech**: JavaScript | API Integration | Responsive Design
 
 #### 🔹 **Personal Portfolio Manager**
-A web app to track investments, generate reports, and visualize personal financial data.  
-**Tech Stack:** Flask, Python, SQL
+Investment tracking system with:  
+✔ SQL database backend  
+✔ Data visualization  
+✔ CRUD operations  
+**Tech**: Flask | Python | SQL | HTML/CSS
 
 ---
 
-#### 🔹 **AI Travel Planner**
-Generates dynamic travel plans using Gemini API and maps enriched with POIs and recommendations.  
-**Tech Stack:** React Native, Firebase, API Integrations
-
----
-
-#### 🔹 **Grammar Checker App (Android)**
-An Android app that uses AI to detect and suggest corrections for grammatical errors.  
-**Tech Stack:** Jetpack Compose, Kotlin, API Integration
-
----
-
-#### 🔹 **CGPA Calculator (Android)**
-Simplified GPA calculation based on subjects and credits.  
-**Tech Stack:** Jetpack Compose, Kotlin
+### 📚 Continuous Learning
+- Expanding Java/jQuery skills through [Course/Project]
+- Studying AngularJS fundamentals
+- Exploring design patterns for web applications
 
 ---
 
 ### 📫 Let's Connect
 - 📧 [khelendra.guptarauniyar@gmail.com](mailto:khelendra.guptarauniyar@gmail.com)
-- 🌐 [LinkedIn]([https://linkedin.com/in/khelendra](https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/)) https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/
+- 💼 [LinkedIn](https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/)
+- 🖥️ [Portfolio](https://github.com/Khelendrarauniyar)
 
 ---
 
-> *Turning code into impactful solutions through intelligent systems, scalable architecture, and clean design.*
+> "Passionate about building scalable web solutions while bridging AI and frontend innovation. Strong collaborator with 5+ team projects delivered."
