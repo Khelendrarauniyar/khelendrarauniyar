@@ -30,8 +30,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. AI-Powered Learning Platform (Full-Stack Web App)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-green)]() [![GitHub](https://img.shields.io/badge/Code-GitHub-blue)]()  
+### 1. AI-Powered Learning Platform (Full-Stack Web App) 
 **Tech Stack**:  
 `React` `JavaScript` `Flask` `Firebase` `REST API` `JWT` `HTML5` `CSS3` `Google Gemini API`  
 - Developed full-stack platform with JWT authentication and dynamic course management
@@ -41,8 +40,7 @@
 
 ---
 
-### 2. AI Travel Planner (Cross-Platform App)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-blue)]()  
+### 2. AI Travel Planner (Cross-Platform App)  
 **Tech Stack**:  
 `React Native` `JavaScript` `Firebase` `Geoapify API`   
 - Developed mobile-first travel itinerary generator
