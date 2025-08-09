@@ -32,7 +32,7 @@
 
 ### 1. AI-Powered Learning Platform (Full-Stack Web App) 
 **Tech Stack**:  
-`React` `JavaScript` `Flask` `Firebase` `REST API` `JWT` `HTML5` `CSS3` `Google Gemini API`  
+`React` `JavaScript` `Flask` `Firebase` `REST API` `JWT` `React` `CSS` `Google Gemini API`  
 - Developed full-stack platform with JWT authentication and dynamic course management
 - Implemented AI-driven recommendations using machine learning models
 - Built real-time chatbot support with Gemini API integration
@@ -52,7 +52,7 @@
 
 ### 3. Personal Portfolio Manager (Web Application)
 **Tech Stack**:  
-`Flask` `Python` `SQLAlchemy` `HTML5` `CSS3`
+`Flask` `Python` `SQLAlchemy` `HTML` `CSS`
 - Built CRUD application for professional credential management
 - Developed dynamic resume/CV rendering system
 - Implemented secure authentication system
@@ -62,7 +62,7 @@
 
 ### 4. AI Expense Tracker with Chatbot
 **Tech Stack**:  
-`Flask` `Python` `SQLite` `JavaScript` `Chatbot API` `CSS3`  
+`Flask` `Python` `SQLite` `Gemini API` `HTML` `CSS`   
 - Created automated expense categorization system
 - Developed interactive chatbot for financial insights
 - Implemented time-based expense analysis
