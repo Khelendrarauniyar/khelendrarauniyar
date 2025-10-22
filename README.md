@@ -108,7 +108,7 @@
 ### 📫 Let's Connect
 - 📧 [khelendra.guptarauniyar@gmail.com](mailto:khelendra.guptarauniyar@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/khelendra-rauniyar-4a0424257/)
-- 🖥️ [Portfolio](https://github.com/Khelendrarauniyar)
+- 🖥️ [Portfolio](https://khelendrarauniyar.github.io/)
 
 ---
 
