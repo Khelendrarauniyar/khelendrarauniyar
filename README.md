@@ -99,9 +99,10 @@
 ---
 
 ### 📚 Continuous Learning
-- Expanding Java/jQuery skills through [Course/Project]
-- Studying AngularJS fundamentals
-- Exploring design patterns for web applications
+- Expanding Python/backend
+- Learning LangChain and RAG Implementation
+- Working on Full Stack Projects enhancing security and scalability
+- 
 
 ---
 
